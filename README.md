@@ -40,10 +40,10 @@ Location in the project:
 
 Classpath: se.kth.id1020.TestSearchEngine
 
-Search query: 
+Search query: word1 [word2] [...] [orderby cou/pop/occ asc/desc] 
 
--
-
--
+-word1 [word2] [...]: Words to be searched, at least one
+-orderby: order the result by count or popularity or occurrence
+-direction: set the direction of order, asc or desc
 
 
