@@ -1,4 +1,4 @@
-## tinysearchengine
+## Tiny Search Engine 1.0
 
 ### Description
 The goal of the project is to build a simple search engine for natural language text documents.
